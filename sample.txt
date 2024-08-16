@@ -1,3 +1,2 @@
 sample
 sample version 1
-sample version 2
